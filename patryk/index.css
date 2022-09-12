@@ -1,0 +1,45 @@
+body
+{
+    
+    background-color: #ddffdd;
+    font-family: 'Verdana';
+}
+
+#main
+{
+	border: 5px solid black;
+	border-radius: 5px;
+	text-align:center;
+}
+
+#bar
+{
+	border: 5px solid black;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	padding: 5px;
+	text-align:center;
+
+}
+
+.nav:hover
+{
+	background-color: gray;
+	color: white;
+	border-radius:5px;
+	padding: 2px;
+}
+
+.nav
+{
+
+	padding: 2px;
+	border-right: 2px solid black;
+	color: black;
+	text-decoration: none;
+}
+
+
+
+
+

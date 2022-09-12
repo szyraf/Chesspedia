@@ -1,0 +1,165 @@
+#main{
+	position: absolute;
+	top: 50%;
+	left: 60%;
+	transform: translate(-50%, -50%);
+	width: 800px;
+	height: 800px;
+  background-color: #ddffdd;
+	width: auto;
+	height: auto;
+
+	border: 10px solid black;
+	border-radius: 7px;
+
+}
+
+body
+{
+	background-color: #ddffdd;
+}
+
+
+
+
+.a{
+	background-color: #487C69;
+}
+
+.b{
+	background-color: #685234;
+}
+
+.cell{
+	border: 2px solid black;
+	width: 60px;
+	height: 60px;
+	padding: 3px;
+}
+
+.selected
+{
+	background-color: #9cb7e2;
+}
+
+.cell img{
+	width: 57px;
+	height: 57px;
+}
+
+.dot{
+	background-color: #d3d2c9;
+}
+
+.dot:hover{
+	background-color: #A6A59F;
+}
+
+.opponent{
+	background-color: red;
+}
+
+.opponent:hover{
+	background-color: #FF4F4F;
+}
+
+body
+{
+	text-align: center;
+	font-family: 'Verdana';
+	background-color: #ddffdd;
+}
+
+#tura
+{
+
+	float:left;
+	position: absolute;
+	top: 50%;
+	left: 20%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+
+	width: 60px;
+	height: 60px;
+
+	background-color: gray;
+	padding: 5px;
+	border: 5px solid gray;
+	border-radius: 6px;
+}
+
+#tura img
+{
+	width: 65px;
+	height: 65px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
+
+.dowyboru:hover
+{
+    background-color: #A6A59F;
+    border-radius: 5px;
+}
+
+.wyborybbb
+{
+	float: left;
+	background-color: #0B2449;
+	border-radius: 6px;
+	padding: 5px;
+	position: absolute;
+	top: 50%;
+	transform: translate(-0%, -50%);
+	text-align: center;
+
+}
+
+.wyboryccc
+{
+	float: left;
+	background-color: #87B7B2;
+	border-radius: 6px;
+	padding: 5px;
+	position: absolute;
+	top: 50%;
+	transform: translate(-0%, -50%);
+	text-align: center;
+
+}
+
+.wyborb
+{
+
+	border-radius: 6px;
+	padding: 5px;
+}
+
+.wyborb:hover
+{
+	background-color: gray;
+	border-radius: 6px;
+	padding: 5px;
+}
+
+.wyborc
+{
+
+	border-radius: 6px;
+	padding: 5px;
+}
+
+.wyborc:hover
+{
+	background-color: gray;
+	border-radius: 6px;
+	padding: 5px;
+}
+
+
+table{border-colapse: collapse; border-spacing: 0px; margin:0;}
